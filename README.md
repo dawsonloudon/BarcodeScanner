@@ -1,4 +1,4 @@
-BarcodeScanner
+BarcodeScanner (iOS/Android/WP8)
 ==============
 
 Combination of [iOS/Android Scanner plugin](https://github.com/wildabeast/BarcodeScanner) and [WP8 Scanner plugin] (https://github.com/bloxlab/BarcodeScannerWP8)
